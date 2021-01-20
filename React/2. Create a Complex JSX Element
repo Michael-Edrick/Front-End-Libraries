@@ -1,0 +1,9 @@
+const JSX= <div>
+<h1>Artist</h1>
+<p>Yoasobi</p>
+<ul>
+<li>Yoru ni Kakeru</li>
+<li>Halzion</li>
+<li>Tabun</li>
+</ul>
+</div>;
