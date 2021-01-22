@@ -16,7 +16,7 @@ class ToDo extends React.Component {
         { /* Change code below this line */ }
         <List tasks={["walk dog", "workout"]}/>
         <h2>Tomorrow</h2>
-        <List tasks={["babi", "anjing", "idiot"]}/>
+        <List tasks={["hahaha", "hihihi", "hohoho"]}/>
         { /* Change code above this line */ }
       </div>
     );
